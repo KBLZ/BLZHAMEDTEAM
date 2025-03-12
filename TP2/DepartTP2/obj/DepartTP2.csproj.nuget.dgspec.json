@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data\\CEGEP STE FOY\\Session 2\\cours\\PROGRAMMATION OBJET I\\TP2\\TP2\\DepartTP2\\DepartTP2.csproj": {}
+    "C:\\Data\\CEGEP STE FOY\\Session 2\\cours\\PROGRAMMATION OBJET I\\TP2\\TP2\\BLZHAMEDTEAM\\TP2\\DepartTP2\\DepartTP2.csproj": {}
   },
   "projects": {
-    "C:\\Data\\CEGEP STE FOY\\Session 2\\cours\\PROGRAMMATION OBJET I\\TP2\\TP2\\DepartTP2\\DepartTP2.csproj": {
+    "C:\\Data\\CEGEP STE FOY\\Session 2\\cours\\PROGRAMMATION OBJET I\\TP2\\TP2\\BLZHAMEDTEAM\\TP2\\DepartTP2\\DepartTP2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\CEGEP STE FOY\\Session 2\\cours\\PROGRAMMATION OBJET I\\TP2\\TP2\\DepartTP2\\DepartTP2.csproj",
+        "projectUniqueName": "C:\\Data\\CEGEP STE FOY\\Session 2\\cours\\PROGRAMMATION OBJET I\\TP2\\TP2\\BLZHAMEDTEAM\\TP2\\DepartTP2\\DepartTP2.csproj",
         "projectName": "DepartTP2",
-        "projectPath": "C:\\Data\\CEGEP STE FOY\\Session 2\\cours\\PROGRAMMATION OBJET I\\TP2\\TP2\\DepartTP2\\DepartTP2.csproj",
+        "projectPath": "C:\\Data\\CEGEP STE FOY\\Session 2\\cours\\PROGRAMMATION OBJET I\\TP2\\TP2\\BLZHAMEDTEAM\\TP2\\DepartTP2\\DepartTP2.csproj",
         "packagesPath": "C:\\Users\\blais\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\CEGEP STE FOY\\Session 2\\cours\\PROGRAMMATION OBJET I\\TP2\\TP2\\DepartTP2\\obj\\",
+        "outputPath": "C:\\Data\\CEGEP STE FOY\\Session 2\\cours\\PROGRAMMATION OBJET I\\TP2\\TP2\\BLZHAMEDTEAM\\TP2\\DepartTP2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

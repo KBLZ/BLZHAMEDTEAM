@@ -51,7 +51,7 @@
 
         }
 
-        private int ObtenirDegats()
+        public int ObtenirDegats()
         {
             int degats=0;
             switch (this.nom)

@@ -9,6 +9,7 @@ namespace DepartTP2
         NbPtsAttaqueMin=2,
         NbPtsAttaqueMax=16,
         NbPtsArmureMin=1,
-        NbPtsArmureMax = 6
+        NbPtsArmureMax = 6,
+        NbPtsExperienceDepart=0
     }
 }

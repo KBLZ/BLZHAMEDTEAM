@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DepartTP2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f097fcff90e56e7a5c15fdfd5d6d4233100bfef8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9c94e74657dfd67c6143b27ea13400dd56d1f6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DepartTP2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DepartTP2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
